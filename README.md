@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋, I'm Javal Nanda<br>Seasoned Mobile App Developer | 12+ Years of Expertise in Crafting Seamless User Experiences & High-Quality Code | Passionate about Building Life-Enhancing Products<br><br>🌱 I’m currently learning **The Composable Architecture (TCA)**<br><br>💬 Ask me about **iOS, Android, Kotlin Multiplatform, Testing, CI/CD**<br><br>📝 Sharing my experiences and thoughts on https://javalnanda.com<br><br>📫 How to reach me **javalnanda@gmail.com**<br>
+Hello 👋, I'm Javal Nanda<br>Seasoned Mobile App Developer | 12+ Years of Expertise in Crafting Seamless User Experiences & High-Quality Code | Passionate about Building Life-Enhancing Products<br><br>💬 Ask me about **iOS, Android, Kotlin Multiplatform, Testing, CI/CD**<br><br>📝 Sharing my experiences and thoughts on https://javalnanda.com<br><br>📫 How to reach me **javalnanda@gmail.com**<br>
 
 
 ## 🌐 Socials:
